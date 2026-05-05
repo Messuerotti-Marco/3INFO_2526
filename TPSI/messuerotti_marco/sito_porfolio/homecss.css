@@ -6,7 +6,6 @@ body {
     background-color: #f9f9f9;
 }
 
-/* Barra di navigazione */
 #navbar {
     background-color: #333;
     padding: 15px;
@@ -21,14 +20,13 @@ body {
 }
 
 #navbar a:hover {
-    color: #4CAF50; /* Colore verde quando passi sopra col mouse */
+    color: #4CAF50; 
 }
 
-/* Spaziatura delle sezioni */
 .sezione {
     padding: 40px;
     max-width: 800px;
-    margin: 0 auto; /* Centra il contenuto nel foglio */
+    margin: 0 auto; 
     background-color: white;
 }
 
@@ -36,7 +34,6 @@ h1, h2 {
     color: #2c3e50;
 }
 
-/* Stile per l'elenco puntato */
 ul {
     padding-left: 20px;
 }
@@ -45,7 +42,6 @@ li {
     margin-bottom: 10px;
 }
 
-/* Piè di pagina */
 #footer {
     text-align: center;
     padding: 20px;
